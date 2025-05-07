@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://jinv2.github.io">
+    <img src="https://github.com/jinv2/jinv2.github.io/blob/main/assets/images/%E5%A4%A9%E7%AE%97LOGO3.png?raw=true" alt="天算 LOGO" width="150"/>
+  </a>
+</p>
+
 ### Hi there 👋, I'm jinv2!
 
 我们是一个致力于 **探索和分享人工智能、自然算法及相关开源技术的社区与平台，专注于深度学习、计算机视觉（CV）、自然语言处理（NLP）等领域的研究与应用。我们旨在通过开源项目和知识共享，赋能开发者和学习者，共同推动技术进步。**
