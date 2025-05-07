@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jinv2.github.io">
-    <img src="https://github.com/jinv2/jinv2.github.io/blob/main/assets/images/%E5%A4%A9%E7%AE%97LOGO3.png?raw=true" alt="天算 LOGO" width="150"/>
+    <img src="https://github.com/jinv2/jinv2.github.io/blob/main/assets/images/%E5%A4%A9%E7%AE%97LOGO3.png?raw=true" alt="天算 LOGO" width="250"/>
   </a>
 </p>
 
